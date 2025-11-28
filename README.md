@@ -66,8 +66,9 @@ python main.py
 ---
 
 ## 📷 Screenshots
-![alt text](image.png)
-
+![GUI app example](./examples/image-1.png)
+---
+![GUI app example](./examples/image-2.png)
 ---
 
 ## 👤 Author
